@@ -1,1 +1,1 @@
-A short quiz app testing your geeky tech knowledge. :)
+A short quiz app testing your tech knowledge. :)
